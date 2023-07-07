@@ -23,7 +23,7 @@ with st.sidebar:
  
     ''')
     add_vertical_space(5)
-    st.write('Made by Hanzalah Qamar Est. June 2023')
+    st.write('Made by Hanzalah Qamar Est. 2023')
 
 def main():
     st.header("Chat with your PDF")
