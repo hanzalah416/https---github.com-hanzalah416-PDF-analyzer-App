@@ -1,7 +1,7 @@
-title: DocBot
-emoji: 🦀
-colorFrom: indigo
-colorTo: red
+title: Doc Bot
+emoji: 💻
+colorFrom: pink
+colorTo: yellow
 sdk: streamlit
 sdk_version: 1.21.0
 app_file: app.py
